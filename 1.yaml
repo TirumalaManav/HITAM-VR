@@ -1,0 +1,42 @@
+# Hey this is a yaml file
+
+my-college:
+  name: "Hyderabad Institute Of Technology and Management"
+  location: "Medchal Road, Hyderabad"
+  course:
+    - "Computer Science Engineering Specialization in Internet of Things (IoT) and Machine Learning"
+
+Date of Joining: "2021-15-11"
+
+student_details:
+- name: "Tirumala Manav"
+  Roll_No: "21E51A6955"
+  Email Id: "21E51A6955@hitam.org"
+
+- name: "Manav Goud"
+  Roll_No: "21E51A6955"
+  Email Id: "thirumalamanav123@gmail.com"
+
+- {name: "Manav", Roll_No: "21E51A6955", Email Id: "manavtirumala302331@gmauil.com"}
+
+short_description: >
+  HITAM is a place where you can explore your skills and knowledge in the field of technology and management.
+  It is a place where you can learn and grow with the help of experienced faculty and staff members.
+  It is a place where you can make your dreams come true.
+
+
+  student description: |
+
+  Tirumala Manav is a student of HITAM pursuing Computer Science Engineering Specialization in Internet of Things (IoT) and Machine Learning.
+  He is a hardworking and dedicated student who is always eager to learn new things.
+  He is passionate about technology and is always looking for ways to improve his skills.
+  He is a team player and is always willing to help his classmates.
+  He is a quick learner and is always looking for ways to improve himself.
+  He is a good communicator and is always willing to share his knowledge with others.
+  He is a responsible student who always completes his assignments on time.
+  He is a friendly and approachable person who is always willing to help others.
+  He is a positive and optimistic person who always looks at the bright side of things.
+
+
+
+ 
